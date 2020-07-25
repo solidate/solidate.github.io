@@ -49,14 +49,14 @@ author:
 
 
 ### Posts ###
-permalink: /blog/:title
+permalink: blog/:title
 
 
 ### Collections ###
 collections:
   projects:
     output: False
-    permalink: /projects/:name
+    permalink: projects/:name
 #  elements:                                             # For Documentation Only
 #    output: False                                        # For Documentation Only
 
