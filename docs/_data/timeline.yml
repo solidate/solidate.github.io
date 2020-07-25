@@ -1,17 +1,37 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Associate-Projects, Cognizant, Bangalore
+  from: Sep 2018
+  to: Present
+  description: ""
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Ministry Of Statistics and Programme Implementation, Delhi
+  from: May 2017
+  to: Jul 2017
+  description: "<b>• Intern</b><br/>Worked at Computer Center. Responsible for calculating and analyzing 
+                Monthly per Capita Expenditure(MPCE) for 'Household and Broad Category of Durable Goods'.
+                Generating reports based on the data collected by NSSO to help in creation of budget."
+
+- title: M.Sc. Applied Operational Research, University of Delhi
+  from: Aug 2016
+  to: Jun 2018
+  description: "Completed Masters in Applied Operational Research. 
+                Core Subjects in Econometrics, Data mining and Warehousing,
+                Reliability Engineering, Queuing Theory, Inventory Management,
+                Project Scheduling, Quality Control and Marketing Research.<br/><br/>
+               • <b>Course Work : Process Quality Mangement</b><br/>
+               Calculate the current sigma level for a Chair manufacturing enterprise. 
+               Setting benchmarks for the process. Suggesting improvements in the sub-process 
+               to achieve Total Quality Control.
+               "
+
+- title: B.Sc(H) Mathematics, University of Delhi
+  from: Jul 2013
+  to: Jun 2016
+  description: "Graduated with Honours in Mathematics. With core subjects in Linear Algebra, Real Analysis and Calculus.
+               <br/><br/>
+               •&nbsp;<b>Secretary of RamanuGen Mathematics Society, Ramanujan College.</b><br/>
+               Promoting a learning and sharing culture of Mathematics. Raising Funds and getting Sponsers for activities.
+               <br/><br/>
+               •&nbsp;<b>Founding Memeber of Quiksort Computer Society, Ramanujan College.</b><br/>
+               Promoting Open source culture. Organising learning sessions and Programming competitions."
+
+               

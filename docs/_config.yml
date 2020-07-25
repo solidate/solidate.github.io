@@ -1,11 +1,13 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Keshav Kumar
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Data Scientist at Cognizant. 
+                      Machine Learning and Artificial Intelligence enthusiast.
+                      Alumni of Dept. Of Operational Research, University of Delhi.
+
+                      
 baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : solidate/solidate.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -24,24 +26,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Keshav Kumar
+  image             : https://avatars2.githubusercontent.com/u/22544002?s=400&u=78270c5e701ca1f6f3c9be20c85266fade388846&v=4
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : keshavkumar.du.or.18@gmail.com
+# facebook          : your_username
+  github            : solidate
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : keshav-kumar-7b11a584
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -53,10 +55,10 @@ permalink: /blog/:title
 ### Collections ###
 collections:
   projects:
-    output: true
+    output: False
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+#  elements:                                             # For Documentation Only
+#    output: False                                        # For Documentation Only
 
 
 ### Disqus ###
@@ -77,11 +79,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  # - scope:                                              # For Documentation Only
+  #    path: ""                                          # For Documentation Only
+  #    type: "elements"                                  # For Documentation Only
+  #  values:                                             # For Documentation Only
+  #    layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
