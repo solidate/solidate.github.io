@@ -5,6 +5,7 @@
 Used Deep learning models for Natural language processing to help client automate the process of SIG Code generation between pharmacies and physician.<br/>
 • Design the fundamental ML Model.<br/>
 • Created end to end pipelines for the process.<br/>
+• Serving models through Flask and Tensorflow serving.
 • Generated docker images.<br/><br/>
 
 <b>Domain: Healthcare & Insurance (Sep 2018 - Mar 2020)</b><br/>

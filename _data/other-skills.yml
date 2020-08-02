@@ -2,6 +2,10 @@
   percentage: 90
   color: info
 
+- name: Flask
+  percentage: 70
+  color: green
+
 - name: R Programming
   percentage: 70
   color: success
